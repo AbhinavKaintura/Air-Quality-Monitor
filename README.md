@@ -1,4 +1,4 @@
-# *Air Quality Monitoring and Prediction*
+# *Air Quality Monitor*
 
 ## *Project Overview*
 
